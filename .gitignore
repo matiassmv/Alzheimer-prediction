@@ -1,0 +1,7 @@
+tf210/
+AugmentedAlzheimerDataset/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.h5
