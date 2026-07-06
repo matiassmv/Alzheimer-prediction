@@ -52,6 +52,8 @@ pillow==10.4.0 ^
 notebook ^
 jupyterlab ^
 ipykernel ^
+optuna ^
+optuna-integration ^
 gradio
 
 echo.
